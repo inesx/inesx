@@ -21,3 +21,7 @@ Alternatively you can get the bleeding edge version from github by performing th
 
  * `git clone https://github.com/wmeints/text-analytics`
  * `python setup.py install`
+
+
+## Development
+For information about development, please refer to the Wiki.
