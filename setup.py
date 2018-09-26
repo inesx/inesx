@@ -27,7 +27,7 @@ from shutil import rmtree
 from setuptools import setup, find_packages, Command
 
 NAME = 'text-analytics'
-VERSION = '1.0.0'
+VERSION = '1.0.1'
 URL = 'https://github.com/wmeints/text-analytics'
 AUTHOR = 'Willem Meints'
 EMAIL = 'willem.meints@gmail.com'
@@ -119,5 +119,6 @@ setup(
     cmdclass={
         'upload': UploadCommand,
     },
-    long_description=long_description
+    long_description=long_description,
+    long_description_content_type='text/markdown'
 )
