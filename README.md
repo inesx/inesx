@@ -1,3 +1,7 @@
+# Note: This package is no longer maintained
+
+We recommend using the official package for Azure: https://aka.ms/azsdk/python/textanalytics
+
 # Azure Cognitive Service Text Analytics client
 The Text Analytics API is a suite of text analytics web services built with best-in-class Microsoft machine learning algorithms.   
 The API can be used to analyze unstructured text for tasks such as sentiment analysis, key phrase extraction and language detection.   
